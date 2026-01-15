@@ -1,8 +1,8 @@
 class SshSync < Formula
     desc "SSH syncing application built with Go"
     homepage "https://therealpaulgg.github.io/ssh-sync"
-    url "https://api.github.com/repos/therealpaulgg/ssh-sync/tarball/v1.2.1"
-    sha256 "ee0ba4d01006c44ed96184160804f5b65a582c01638a61cf06b42b1d23a66825"
+    url "https://api.github.com/repos/therealpaulgg/ssh-sync/tarball/v1.2.2"
+    sha256 "3a2e15a8c621da2ce9165baf8c760a979fd55b449c5258b2ca8280d6b0b44686"
     license "MIT"
   
     depends_on "go" => :build
